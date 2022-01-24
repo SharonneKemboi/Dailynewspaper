@@ -1,9 +1,29 @@
 html{
-    background-color: rgb(20, 130, 173);
+    background-color: rgb(202, 218, 224);
     
 }
 main{
 background-color: rgb(237, 237, 237);
     overflow: scroll;
-    width: 65%;
+    width: 100%;
+}
+#one{
+    float: left;
+    height: 200px;
+    width: 300px;
+    margin: 0 10px 0 0;
+
+}
+#two{
+    float: right;
+    margin: 10px 0 0 10px;
+}
+#three{
+    width: 90%;
+}
+p{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 0.9em;
+    text-align: justify;
 }
